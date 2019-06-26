@@ -9,7 +9,7 @@ button if you want to be shown a random mineral from the list.
 
 -----------------------------------------
 
-Check requirements.txt Info on package versions on it.
+Check requirements.txt Info on package versions on it. (Inside mineral_catalog folder)
 
 - Python 3.6
 - Django 2.2.2
